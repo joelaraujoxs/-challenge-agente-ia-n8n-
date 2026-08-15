@@ -27,3 +27,14 @@ O fluxo de trabalho (workflow) foi estruturado no n8n utilizando os seguintes co
  * n8n (Automação e Orquestração de Fluxos)
  * Google Gemini AI (LLM e Embeddings)
  * JSON (Exportação e Importação de Arquiteturas)
+## 🚀 Deploy e Aplicação em Nuvem (OCI)
+
+O agente de IA está implantado e rodando em uma instância de nuvem da **Oracle Cloud Infrastructure (OCI)** utilizando Docker e n8n.
+
+* **URL Pública do Agente (n8n):** [http://163.176.34.151:5678](http://163.176.34.151:5678)
+* **Status da Instância:** Em execução (*Running* - Always Free Tier)
+* **Região OCI:** Brazil East (São Paulo)
+
+### 📸 Evidências do Deploy
+- **Servidor em Nuvem (OCI):** Instância ativa e alocada com IP público fixo.
+- **n8n e Agente:** Fluxo publicado (*Workflow published*) com suporte ao modelo Google Gemini e busca vetorial em tempo real.
